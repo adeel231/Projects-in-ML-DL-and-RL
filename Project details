@@ -1,1 +1,0 @@
-This project involves building a predictive model using scikit-learn. It focuses on a classification task where various algorithms like logistic regression, decision trees, and support vector machines (SVM) are compared. The dataset is preprocessed, and features are engineered to improve model performance.
